@@ -1,0 +1,64 @@
+doctype html
+html
+  head
+    title= `${title} | ${h.siteName}`
+    
+    link(rel='stylesheet', href='/dist/style.css')
+    meta(name="viewport" content="width=device-width, initial-scale=1")
+  body
+    block header
+      header.top
+        nav.nav
+          .nav-section.nav-section-pages
+            li.nav-item
+              a.nav-link(href="/") Home
+
+            each item in h.menu
+              li.nav-item
+                a.nav-link(href=item.slug, class=(currentPath.startsWith(item.slug) ? 'nav-link-active' : ''))
+                  span #{item.title}
+
+          .nav-section.nav-section-search
+            .search
+              input.search-input(type="text" placeholder="Search here 🔍" name="search")
+              .search-results
+
+          .nav-section.nav-section-user
+            if user
+              li.nav-item: a.nav-link(href="/add", class=(currentPath.startsWith('/add') ? 'nav-link-active' : ''))
+                span Add
+              li.nav-item: a.nav-link(href="/logout", class=(currentPath.startsWith('/logout') ? 'nav-link-active' : ''))
+                span Logout
+              li.nav-item: a.nav-link(href="/account", class=(currentPath.startsWith('/account') ? 'nav-link-active' : ''))
+                span Account
+            else
+              li.nav-item: a.nav-link(href="/login", class=(currentPath.startsWith('/login') ? 'nav-link-active' : '')) Log In
+
+
+    block messages
+      if locals.flashes
+        .inner
+          .flash-messages
+            - const categories = Object.keys(locals.flashes)
+            each category in categories
+              each message in flashes[category]
+                .flash(class=`flash-${category}`)
+                  p.flash-text!= message
+                  button.flash-remove(onClick="this.parentElement.remove()") &times;
+    .content
+      block content
+
+    block footer
+      footer.footer
+        .inner
+
+          hr.spacer
+
+          div.legal
+            p
+              small All site details are provided to the best of our knowledge. Please refer to the airsoft site rules directly before attending. We cannot be held liable for any misinformation displayed on this site. Any listed sites or venues are in no way affiliated with this website, no commission is made from using this website, and has no influence of site listings.
+
+          
+
+    block scripts
+      script(src="/dist/App.bundle.js")

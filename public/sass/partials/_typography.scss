@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'Nunito';
+  src: url("../../fonts/nunito-sans/NunitoSans-VariableFont_YTLC\,opsz\,wdth\,wght.ttf");
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  font-size: 1.5rem;
+  color: $black;
+  font-family: 'Nunito', Arial, Helvetica, sans-serif
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Nunito', Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  // letter-spacing: 1px;
+}
+
+a {
+  text-decoration: none;
+  color: $black;
+}
+
+p a {
+  border-bottom: 2px solid $green;
+}
+
+p {
+  line-height: 2;
+  font-size: 1.6rem;
+}
+
+.title {
+  word-wrap: break-word;
+  font-size: 3rem;
+  position: relative;
+  z-index: 2;
+  margin: 0;
+  text-transform: uppercase;
+
+  &.title-long {
+    font-size: 20px;
+  }
+
+  small {
+    display: block;
+    font-size: 50%;
+    font-weight: 300;
+  }
+
+  &:before {
+    content: "";
+    width: 50px;
+    left: 0;
+    top: 0;
+    height: 100%;
+    // top:10%;
+    display: block;
+    position: absolute;
+    z-index: -1;
+    transform: skew(-5deg);
+  }
+
+  line-height: 1.1;
+
+  // inline link inside
+  a {
+    border-bottom: 0;
+    color: $black;
+  }
+}
+
+.title-single {
+  max-width: 600px;
+  margin-top: -9rem;
+  font-size: 10rem;
+  text-align: center;
+}
+
+.green-text {
+  color: $green;
+}

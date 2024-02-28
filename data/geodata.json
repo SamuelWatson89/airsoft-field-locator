@@ -1,0 +1,2570 @@
+[
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.774563, 52.591861] },
+    "properties": {
+      "name": "Fireball Squadron",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/west-midlands/fireball-squadron/",
+      "region": "West Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0, 0] },
+    "properties": {
+      "name": "NORTHSTAFFS AIRSOFT",
+      "urlPath": "/sites/west-midlands/undefined/",
+      "region": "West Midlands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.207213, 56.161174] },
+    "properties": {
+      "name": "The Fort",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/scotland/the-fort/",
+      "region": "Scotland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.081681, 53.237147] },
+    "properties": {
+      "name": "Skirmish Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/yorkshire/skirmish-airsoft/",
+      "region": "Yorkshire",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.89238, 55.090212] },
+    "properties": {
+      "name": "NSC Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-east/nsc-airsoft/",
+      "region": "North East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.034627, 51.494418] },
+    "properties": {
+      "name": "Bunker 51",
+      "siteType": "Indoor",
+      "primaryGameType": "Speedsoft",
+      "urlPath": "/sites/greater-london/bunker-51/",
+      "region": "Greater London",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.012202, 51.479912] },
+    "properties": {
+      "name": "Absolute Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/absolute-airsoft/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.815403, 55.78575] },
+    "properties": {
+      "name": "Section 8",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/scotland/section-8/",
+      "region": "Scotland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.252083, 51.865655] },
+    "properties": {
+      "name": "UCAP Vendetta",
+      "siteType": "Urban",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/ucap-vendetta/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.936675, 52.767117] },
+    "properties": {
+      "name": "Midlands Airsoft Wargames",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/midlands-airsoft-wargames/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.961402, 52.974074] },
+    "properties": {
+      "name": "West Midlands F.O.B.",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/west-midlands/west-midlands-fob/",
+      "region": "West Midlands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.416604, 54.147928] },
+    "properties": {
+      "name": "Northern Alliance Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-east/northern-alliance-airsoft/",
+      "region": "North East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.688471, 52.135298] },
+    "properties": {
+      "name": "Special Ops Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/special-ops-airsoft/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.058193, 53.181092] },
+    "properties": {
+      "name": "The Jungle",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/the-jungle/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.176768, 53.227656] },
+    "properties": {
+      "name": "Alpha 55",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/wales/alpha-55/",
+      "region": "Wales",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.73297, 52.789862] },
+    "properties": {
+      "name": "Scorpion Airsoft",
+      "siteType": "Urban",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-anglia/scorpion-airsoft/",
+      "region": "East Anglia",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.456111, 54.799297] },
+    "properties": {
+      "name": "NTACentre",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-east/ntacentre/",
+      "region": "North East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.743741, 51.618017] },
+    "properties": {
+      "name": "Dragon Valley ",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/wales/dragon-valley/",
+      "region": "Wales",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.878788, 51.335726] },
+    "properties": {
+      "name": "Eversley Bravo",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/gunman-eversley-bravo/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.123731, 53.233078] },
+    "properties": {
+      "name": "Pheonix Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/pheonix-airsoft/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.116113, 51.845225] },
+    "properties": {
+      "name": "AWA Herts",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-anglia/awa-herts/",
+      "region": "East Anglia",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.249943, 51.856148] },
+    "properties": {
+      "name": "StrikeForce CQB",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/strikeforce-cqb/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-6.399828, 54.414781] },
+    "properties": {
+      "name": "The Mill Portadown",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/northern-ireland/the-mill-portadown/",
+      "region": "Northern Ireland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.266756, 51.375338] },
+    "properties": {
+      "name": "Ultimate Wargames",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/ultimate-wargames-fawkham/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.632032, 54.63762] },
+    "properties": {
+      "name": "Dirty Dog Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-east/dirty-dog-airsoft/",
+      "region": "North East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.666405, 53.677233] },
+    "properties": {
+      "name": "The Killhouse",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/yorkshire/the-killhouse/",
+      "region": "Yorkshire",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.537108, 52.972028] },
+    "properties": {
+      "name": "Ancaster Leisure",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/ancaster-leisure/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.623672, 51.52553] },
+    "properties": {
+      "name": "Black Ops Cribbs",
+      "siteType": "Urban",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/black-ops-cribbs/",
+      "region": "South West"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.810773, 50.86102] },
+    "properties": {
+      "name": "Ground Zero Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/ground-zero-airsoft/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-5.857871, 54.359059] },
+    "properties": {
+      "name": "Predator Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/northern-ireland/predator-airsoft/",
+      "region": "Northern Ireland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-4.740546, 50.396173] },
+    "properties": {
+      "name": "Thunder Park ",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/thunder-park/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.458682, 50.754462] },
+    "properties": {
+      "name": "Bunker",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/ucz-the-bunker/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.243294, 51.419343] },
+    "properties": {
+      "name": "Red Alert",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/red-alert/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.027043, 53.008837] },
+    "properties": {
+      "name": "Red Works Airsoft",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/wales/red-works-airsoft/",
+      "region": "Wales"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.502018, 51.142057] },
+    "properties": {
+      "name": "Invicta Woodland Site",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/invicta-woodland-site/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.009114, 51.329194] },
+    "properties": {
+      "name": "Tactical Warfare",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/greater-london/tactical-warfare/",
+      "region": "Greater London",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.144996, 51.653395] },
+    "properties": {
+      "name": "Mayhem Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/greater-london/mayhem-airsoft/",
+      "region": "Greater London",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-4.158183, 52.293377] },
+    "properties": {
+      "name": "The Bunker",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/wales/the-bunker/",
+      "region": "Wales"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.566379, 52.304377] },
+    "properties": {
+      "name": "Tuddenham",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-anglia/gunman-tuddenham/",
+      "region": "East Anglia",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.023351, 51.069536] },
+    "properties": {
+      "name": "Camouflage Airsoft: Alton",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/camouflage-airsoft-alton/",
+      "region": "South East"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.254458, 51.67387] },
+    "properties": {
+      "name": "Dragons Lair Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-anglia/dragons-lair/",
+      "region": "East Anglia",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.654877, 51.602877] },
+    "properties": {
+      "name": "Hockley Airsoft Arena",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/hockley-airsoft-arena/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.081058, 51.418139] },
+    "properties": {
+      "name": "Red 1 Chislehurst",
+      "siteType": "Urban",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/greater-london/red-1-airsoft/",
+      "region": "Greater London",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.076821, 53.314517] },
+    "properties": {
+      "name": "Parkgate",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/swat-airsoft-parkgate/",
+      "region": "North West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.811217, 51.471151] },
+    "properties": {
+      "name": "Black Ops Portishead",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/black-ops-portishead/",
+      "region": "South West"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.967618, 51.11249] },
+    "properties": {
+      "name": "Hollow Point Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/hollow-point-airsoft/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.9388, 52.843536] },
+    "properties": {
+      "name": "Rednal Combat",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/rednal-combat/",
+      "region": "North West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.29853, 52.656433] },
+    "properties": {
+      "name": "Ace Airsoft War Games",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/west-midlands/ace-airsoft-war-games/",
+      "region": "West Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.092402, 53.247656] },
+    "properties": {
+      "name": "Bedlam – Nottingham",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/bedlam-nottingham/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-4.279224, 53.344931] },
+    "properties": {
+      "name": "Over the Top Airsoft Club",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/wales/over-the-top-airsoft/",
+      "region": "Wales",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.758884, 51.389999] },
+    "properties": {
+      "name": "Spartan Woodland",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/spartan-airsoft/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.682245, 54.443653] },
+    "properties": {
+      "name": "Apex Outdoor Activities ltd",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-east/apex-outdoor-activities/",
+      "region": "North East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.057403, 51.981072] },
+    "properties": {
+      "name": "Finmere Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/finmere-airsoft/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.108034, 50.856111] },
+    "properties": {
+      "name": "UCAP Bunker",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/ucap-bunker/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.621827, 52.434643] },
+    "properties": {
+      "name": "J.A.G Airsoft",
+      "siteType": "Woodland",
+      "urlPath": "/sites/east-midlands/jag-airsoft/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.818062, 50.766196] },
+    "properties": {
+      "name": "Camouflage Airsoft: Bournemouth",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/camouflage-airsoft-bournemouth/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.415792, 52.766884] },
+    "properties": {
+      "name": "Gunbarrel Creek",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/gunbarrel-creek/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-4.671899, 55.926084] },
+    "properties": {
+      "name": "The Depot",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/scotland/the-depot-glasgow/",
+      "region": "Scotland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.262225, 51.323637] },
+    "properties": {
+      "name": "Epsom CQB Bunker",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/greater-london/epsom-cqb-bunker/",
+      "region": "Greater London",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.440816, 50.842065] },
+    "properties": {
+      "name": "Worthing Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/worthing-airsoft/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.704226, 53.174289] },
+    "properties": {
+      "name": "Better Battles Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/better-battles-airsoft/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.659093, 52.384767] },
+    "properties": {
+      "name": "The Grange",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/west-midlands/the-grange/",
+      "region": "West Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.913392, 52.21119] },
+    "properties": {
+      "name": "TM Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/west-midlands/tm-airsoft/",
+      "region": "West Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.9171, 51.8888] },
+    "properties": {
+      "name": "DTW Airsoft",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-anglia/dtw-airsoft/",
+      "region": "East Anglia",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.234182, 50.961175] },
+    "properties": {
+      "name": "Strike Back Events",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/strike-back-events/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-5.985716, 54.750962] },
+    "properties": {
+      "name": "S51 Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Milsim",
+      "urlPath": "/sites/northern-ireland/s51-airsoft/",
+      "region": "Northern Ireland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.012987, 52.968977] },
+    "properties": {
+      "name": "The Kingdom",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/west-midlands/the-kingdom/",
+      "region": "West Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.119159, 51.736007] },
+    "properties": {
+      "name": "Warren Wood",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/greater-london/warren-wood/",
+      "region": "Greater London",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.113945, 52.7397] },
+    "properties": {
+      "name": "Frontier Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/west-midlands/frontier-airsoft/",
+      "region": "West Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.44588, 53.672258] },
+    "properties": {
+      "name": "Fear Masters Airsoft",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/yorkshire/fear-masters-airsoft/",
+      "region": "Yorkshire",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.028408, 53.455449] },
+    "properties": {
+      "name": "YTA The Pines",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/yorkshire/yta-the-pines/",
+      "region": "Yorkshire",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.406241, 53.772219] },
+    "properties": {
+      "name": "All Arms",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/all-arms/",
+      "region": "North West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.517201, 51.398738] },
+    "properties": {
+      "name": "Battle Sector X",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/battle-sector-x/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.834366, 51.080819] },
+    "properties": {
+      "name": "Legion Airsoft",
+      "siteType": "Mixed",
+      "primaryGameType": "Milsim",
+      "urlPath": "/sites/south-east/legion-airsoft/",
+      "region": "South East"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.542531, 53.608049] },
+    "properties": {
+      "name": "YTA The Kingdom",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/yorkshire/yta-the-kingdom/",
+      "region": "Yorkshire",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.780963, 52.610804] },
+    "properties": {
+      "name": "Netley Hall",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/west-midlands/sawg-netley-hall/",
+      "region": "West Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.277947, 54.60768] },
+    "properties": {
+      "name": "District23",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-east/district23/",
+      "region": "North East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.90867, 53.645725] },
+    "properties": {
+      "name": "The Creek",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/yorkshire/the-creek/",
+      "region": "Yorkshire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.612583, 50.69392] },
+    "properties": {
+      "name": "Crackshots",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/crackshots-exeter/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.580005, 51.84998] },
+    "properties": {
+      "name": "Sentinel Airsoft",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/sentinel-airsoft/",
+      "region": "South East"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [1.300339, 51.117588] },
+    "properties": {
+      "name": "The Citadel CQE",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/the-citadel-cqe/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.424561, 51.195648] },
+    "properties": {
+      "name": "ACE Combat",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/ace-combat/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.45074, 51.637372] },
+    "properties": {
+      "name": "Tower Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-anglia/tower-airsoft/",
+      "region": "East Anglia",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.186656, 53.034988] },
+    "properties": {
+      "name": "Monica CQB",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/west-midlands/monica-cqb/",
+      "region": "West Midlands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.891807, 51.335179] },
+    "properties": {
+      "name": "Alpha",
+      "siteType": "Woodland",
+      "primaryGameType": "Filmsim",
+      "urlPath": "/sites/south-east/gunman-eversley-alpha/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.485416, 51.170993] },
+    "properties": {
+      "name": "Ironsight Airsoft",
+      "siteType": "Urban",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/ironsight-airsoft/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-5.789279, 54.357856] },
+    "properties": {
+      "name": "FRV Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/northern-ireland/frv-airsoft/",
+      "region": "Northern Ireland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.455478, 51.643856] },
+    "properties": {
+      "name": "Airsoft Plantation",
+      "siteType": "Mixed",
+      "primaryGameType": "Milsim",
+      "urlPath": "/sites/south-east/airsoft-plantation/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.112887, 51.462716] },
+    "properties": {
+      "name": "Spartan CQB",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/spartan-cqb/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0, 0] },
+    "properties": {
+      "name": "SAC – Ayrshire",
+      "urlPath": "/sites/scotland/undefined/",
+      "region": "Scotland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.057713, 53.158308] },
+    "properties": {
+      "name": "Division 22",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/division-22/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.316368, 51.697255] },
+    "properties": {
+      "name": "REDCON-2",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/redcon-2/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.396956, 53.581189] },
+    "properties": {
+      "name": "AMS No Mans Land Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/yorkshire/ams-no-mans-land/",
+      "region": "Yorkshire",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.411884, 53.286345] },
+    "properties": {
+      "name": "Black Hills Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/black-hills-airsoft/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.85565, 55.981483] },
+    "properties": {
+      "name": "Players of War",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/scotland/players-of-war/",
+      "region": "Scotland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.351437, 55.909492] },
+    "properties": {
+      "name": "Enemy Down",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/scotland/enemy-down/",
+      "region": "Scotland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.48394, 53.526036] },
+    "properties": {
+      "name": "Level 2",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/level-2/",
+      "region": "North West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.959972, 52.274333] },
+    "properties": {
+      "name": "Stirling: The Trees",
+      "siteType": "Woodland",
+      "primaryGameType": "Milsim",
+      "urlPath": "/sites/west-midlands/stirling-the-trees/",
+      "region": "West Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.495048, 53.418871] },
+    "properties": {
+      "name": "Phoenix",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/phoenix-total-combat/",
+      "region": "North West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-6.52207, 54.48131] },
+    "properties": {
+      "name": "Combat Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/northern-ireland/combat-airsoft/",
+      "region": "Northern Ireland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.073793, 53.570956] },
+    "properties": {
+      "name": "Arena Airsoft",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-east/arena-airsoft/",
+      "region": "North East"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.887533, 57.60783] },
+    "properties": {
+      "name": "SAC – Aberdeenshire",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/scotland/sac-aberdeenshire/",
+      "region": "Scotland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.495172, 53.767907] },
+    "properties": {
+      "name": "The Foundry",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/yorkshire/the-foundry/",
+      "region": "Yorkshire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.792664, 51.298164] },
+    "properties": {
+      "name": "Cool Under Fire",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/cool-under-fire/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.482989, 53.4909] },
+    "properties": {
+      "name": "YTA The Manor",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/yorkshire/yta-the-manor/",
+      "region": "Yorkshire"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.449661, 51.68576] },
+    "properties": {
+      "name": "Reforger Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/reforger-airsoft/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.892127, 58.871014] },
+    "properties": {
+      "name": "Orkan",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/scotland/orkan/",
+      "region": "Scotland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.239835, 51.089626] },
+    "properties": {
+      "name": "Dogtag Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/dogtag-airsoft/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.412263, 51.226335] },
+    "properties": {
+      "name": "Invicta Black Site CQB",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/invicta-blacksite/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.460371, 53.994871] },
+    "properties": {
+      "name": "HQ Airsoft",
+      "siteType": "Urban",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-east/hq-airsoft/",
+      "region": "North East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.206432, 51.213811] },
+    "properties": {
+      "name": "Warminster Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Milsim",
+      "urlPath": "/sites/south-west/warminster-airsoft/",
+      "region": "South West"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0, 0] },
+    "properties": {
+      "name": "The Gaol Events ",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/undefined/",
+      "region": "East Midlands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.284752, 53.598473] },
+    "properties": {
+      "name": "The Vault",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/the-vault/",
+      "region": "North West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.984699, 53.854179] },
+    "properties": {
+      "name": "Halo Mill: Proving Grounds",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/yorkshire/halo-mill-proving-grounds/",
+      "region": "Yorkshire",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.790705, 51.77136] },
+    "properties": {
+      "name": "Swansea Valley Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Filmsim",
+      "urlPath": "/sites/wales/swansea-valley-airsoft/",
+      "region": "Wales",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.935327, 52.586915] },
+    "properties": {
+      "name": "Battle Stations CQB",
+      "siteType": "Urban",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-anglia/battle-stations-snetterton/",
+      "region": "East Anglia",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.426577, 51.300403] },
+    "properties": {
+      "name": "Ambush Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/ambush-airsoft/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.233749, 51.537364] },
+    "properties": {
+      "name": "Airsoft Cardiff",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/wales/airsoft-cardiff/",
+      "region": "Wales",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-5.88671, 54.60069] },
+    "properties": {
+      "name": "Trigger Happy",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/northern-ireland/trigger-happy/",
+      "region": "Northern Ireland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.485096, 53.682128] },
+    "properties": {
+      "name": "Humber Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/yorkshire/humber-airsoft/",
+      "region": "Yorkshire",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.562481, 51.1377] },
+    "properties": {
+      "name": "The Bomb Dump",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/the-bomb-dump/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-6.00248, 54.55329] },
+    "properties": {
+      "name": "Lagan Airsoft",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/northern-ireland/lagan-airsoft/",
+      "region": "Northern Ireland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.99021, 53.12859] },
+    "properties": {
+      "name": "Anzio Camp",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/anzio-camp/",
+      "region": "North West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.147507, 54.525782] },
+    "properties": {
+      "name": "The Woodland",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-east/the-woodland-armageddon-airsoft/",
+      "region": "North East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.854909, 52.453103] },
+    "properties": {
+      "name": "Combat Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-anglia/combat-airsoft/",
+      "region": "East Anglia",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.031511, 52.073301] },
+    "properties": {
+      "name": "Apocalypse Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-anglia/apocalypse-airsoft/",
+      "region": "East Anglia",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.996833, 56.511718] },
+    "properties": {
+      "name": "Evolution Hill Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/scotland/evolution-hill-airsoft/",
+      "region": "Scotland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.247834, 53.814138] },
+    "properties": {
+      "name": "Hardline Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/hardline-airsoft/",
+      "region": "North West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.309288, 52.310315] },
+    "properties": {
+      "name": "Delta4 Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/wales/delta4-airsoft/",
+      "region": "Wales",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.734009, 53.260666] },
+    "properties": {
+      "name": "Combat Zone",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-east/combat-zone/",
+      "region": "North East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.230748, 53.380684] },
+    "properties": {
+      "name": "The Big One MK1",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-east/the-big-one-mk1/",
+      "region": "North East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.593126, 51.457652] },
+    "properties": {
+      "name": "Bristol Airsoft",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/bristol-airsoft/",
+      "region": "South West"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-4.190194, 57.350813] },
+    "properties": {
+      "name": "Tazball Combat Arena",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/scotland/tazball-combat-arena/",
+      "region": "Scotland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.621202, 54.953242] },
+    "properties": {
+      "name": "No Limits",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-east/no-limits/",
+      "region": "North East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.26733, 52.891568] },
+    "properties": {
+      "name": "Operation Tacforce",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/operation-tacforce/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.173597, 50.790531] },
+    "properties": {
+      "name": "Southcoast CQB",
+      "siteType": "Urban",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/southcoast-cqb/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.828666, 53.471236] },
+    "properties": {
+      "name": "Bravo 22",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/bravo-22/",
+      "region": "North West"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.365011, 51.442754] },
+    "properties": {
+      "name": "Future Survival",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/future-survival/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.236874, 50.92024] },
+    "properties": {
+      "name": "Ambush Activities",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/ambush-activities/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.10618, 53.50883] },
+    "properties": {
+      "name": "Chemical Airsoft",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/chemical-airsoft/",
+      "region": "North West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.552827, 51.603976] },
+    "properties": {
+      "name": "Splatoon",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-anglia/splatoon/",
+      "region": "East Anglia",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-4.091592, 50.989662] },
+    "properties": {
+      "name": "Survival Paintball",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/survival-paintball/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.134708, 51.635211] },
+    "properties": {
+      "name": "Bunker CQB",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/wales/bunker-cqb/",
+      "region": "Wales"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.695484, 50.961038] },
+    "properties": {
+      "name": "Southdown Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/southdown-airsoft/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.926645, 51.441254] },
+    "properties": {
+      "name": "The Base CQC",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/the-base-cqc/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.433385, 51.956953] },
+    "properties": {
+      "name": "The Ridge",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-anglia/the-ridge/",
+      "region": "East Anglia",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.898563, 52.73616] },
+    "properties": {
+      "name": "Stormforce Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/west-midlands/stormforce-airsoft/",
+      "region": "West Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.238727, 52.558003] },
+    "properties": {
+      "name": "The Department",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/west-midlands/the-department/",
+      "region": "West Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.686793, 51.514595] },
+    "properties": {
+      "name": "Hard Target",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/wales/hard-target/",
+      "region": "Wales",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.131038, 51.12895] },
+    "properties": {
+      "name": "Driver Wood",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/driver-wood/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.429947, 54.284135] },
+    "properties": {
+      "name": "101 Airsoft Scarborough ",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/yorkshire/101-airsoft-scarborough/",
+      "region": "Yorkshire",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-4.379876, 51.848266] },
+    "properties": {
+      "name": "Red Valley Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Milsim",
+      "urlPath": "/sites/wales/red-valley-airsoft/",
+      "region": "Wales"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.628944, 52.224929] },
+    "properties": {
+      "name": "Skirmish Central",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/skirmish-central/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.178743, 53.135531] },
+    "properties": {
+      "name": "The ExSite",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/wales/the-exsite/",
+      "region": "Wales",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.08573, 52.64471] },
+    "properties": {
+      "name": "Hilton Park Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/west-midlands/hilton-park-airsoft/",
+      "region": "West Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.376234, 52.440953] },
+    "properties": {
+      "name": "Warzone",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/west-midlands/warzone-coventry/",
+      "region": "West Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.003001, 53.36936] },
+    "properties": {
+      "name": "Lindey Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-east/lindey-airsoft/",
+      "region": "North East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.63175, 50.692372] },
+    "properties": {
+      "name": "Exeter Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/exeter-airsoft/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.180155, 52.433] },
+    "properties": {
+      "name": "Skirmish Combat Games",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/skirmish-combat-games/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.856099, 53.624897] },
+    "properties": {
+      "name": "Halo Mill",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/yorkshire/halo-mill/",
+      "region": "Yorkshire",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.367292, 51.442452] },
+    "properties": {
+      "name": "Echelon Airsoft",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/greater-london/echelon-airsoft/",
+      "region": "Greater London"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-4.26005, 50.415717] },
+    "properties": {
+      "name": "Rogue Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/rogue-airsoft/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.980163, 53.150375] },
+    "properties": {
+      "name": "Outpost Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/outpost-airsoft/",
+      "region": "North West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.510707, 53.158743] },
+    "properties": {
+      "name": "Matlock Combat Games",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/matlock-combat-games/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.063841, 53.147976] },
+    "properties": {
+      "name": "Battle Stations: Hunting Grounds",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-anglia/battle-stations-hunting-grounds/",
+      "region": "East Anglia",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.17107, 50.747813] },
+    "properties": {
+      "name": "Spec Ops Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/spec-ops-airsoft/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.70249, 53.944967] },
+    "properties": {
+      "name": "Stealth Woods",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/yorkshire/stealth-woods/",
+      "region": "Yorkshire",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.621761, 54.096057] },
+    "properties": {
+      "name": "Moor Lane Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/moor-lane-airsoft/",
+      "region": "North West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-4.514182, 54.376543] },
+    "properties": {
+      "name": "Manx Airsoft Club",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/isle-of-man/manx-airsoft-club/",
+      "region": "Isle of Man",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.617037, 56.277457] },
+    "properties": {
+      "name": "Fife Wargames",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/scotland/fife-wargames/",
+      "region": "Scotland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.261679, 52.138404] },
+    "properties": {
+      "name": "Coms Site 3",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/coms-site-3/",
+      "region": "East Midlands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.325221, 51.399614] },
+    "properties": {
+      "name": "Z MART CQB",
+      "siteType": "Urban",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/z-mart-cqb/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.796796, 52.64276] },
+    "properties": {
+      "name": "Battleground Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-anglia/battleground-airsoft/",
+      "region": "East Anglia",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-4.266455, 50.446324] },
+    "properties": {
+      "name": "Mad Momma’s Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/mad-momma-s-airsoft/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.425274, 57.098283] },
+    "properties": {
+      "name": "Bunker 31",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/scotland/bunker-31/",
+      "region": "Scotland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.437678, 50.717123] },
+    "properties": {
+      "name": "UCAP Valiant",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/ucap-valiant/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.245778, 53.100307] },
+    "properties": {
+      "name": "Skirmish CQB",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/skirmish-cqb/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.74446, 51.76211] },
+    "properties": {
+      "name": "C3 Tactical",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/wales/c3-tactical/",
+      "region": "Wales",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.764186, 54.432516] },
+    "properties": {
+      "name": "Adrenalin Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/yorkshire/adrenalin-airsoft/",
+      "region": "Yorkshire",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-7.47794, 54.157515] },
+    "properties": {
+      "name": "Battle Camp Activity Centre ",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/northern-ireland/battle-camp-activity-centre/",
+      "region": "Northern Ireland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.44703, 51.622034] },
+    "properties": {
+      "name": "Skirmish Airsoft Billericay",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-anglia/skirmish-airsoft-billericay/",
+      "region": "East Anglia",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.300321, 51.10381] },
+    "properties": {
+      "name": "Battle Lakes",
+      "siteType": "Woodland",
+      "primaryGameType": "Filmsim",
+      "urlPath": "/sites/south-east/gunman-battle-lakes/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.916138, 53.038657] },
+    "properties": {
+      "name": "The Armoury",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/wales/the-armoury/",
+      "region": "Wales"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.91622, 51.518036] },
+    "properties": {
+      "name": "The Trail",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/the-trail/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.640607, 53.5408] },
+    "properties": {
+      "name": "The Mill",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/the-mill/",
+      "region": "North West"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.790671, 51.064619] },
+    "properties": {
+      "name": "UCAP GreenOps",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/ucap-greenops/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.347519, 52.953175] },
+    "properties": {
+      "name": "Killzone Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/killzone-airsoft/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.578564, 53.468377] },
+    "properties": {
+      "name": "Camp Sparta",
+      "siteType": "Urban",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-east/camp-sparta/",
+      "region": "North East"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.813792, 51.62308] },
+    "properties": {
+      "name": "Skirmish Wycombe Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/skirmish-wycombe/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.264988, 52.326173] },
+    "properties": {
+      "name": "Maddog Airsoft",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-anglia/maddog-airsoft/",
+      "region": "East Anglia",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-4.008696, 51.832361] },
+    "properties": {
+      "name": "The Yard",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/wales/the-yard/",
+      "region": "Wales",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.4784, 51.4695] },
+    "properties": {
+      "name": "Taskforce Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/wales/taskforce-airsoft/",
+      "region": "Wales",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.759591, 52.015597] },
+    "properties": {
+      "name": "Cotswold Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/west-midlands/cotswold-airsoft/",
+      "region": "West Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.355254, 52.40102] },
+    "properties": {
+      "name": "Midwales Airsoft",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/wales/midwales-airsoft/",
+      "region": "Wales",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.154966, 53.08615] },
+    "properties": {
+      "name": "Ravenshead Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/ravenshead-airsoft/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.305758, 54.778738] },
+    "properties": {
+      "name": "Raw War Airsoft Cumbria",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/raw-war-cumbria/",
+      "region": "North West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [1.193157, 52.712254] },
+    "properties": {
+      "name": "Combat Action Games",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-anglia/combat-action-games/",
+      "region": "East Anglia",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.141067, 51.376155] },
+    "properties": {
+      "name": "CQB Airsoft",
+      "siteType": "Indoor",
+      "primaryGameType": "Speedsoft",
+      "urlPath": "/sites/south-west/cqb-airsoft/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.160967, 53.430117] },
+    "properties": {
+      "name": "Invasion CQC",
+      "siteType": "Urban",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/invasion-cqc/",
+      "region": "North West"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.715377, 52.692344] },
+    "properties": {
+      "name": "Urban Airsoft",
+      "siteType": "Urban",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/west-midlands/urban-airsoft/",
+      "region": "West Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [0.873364, 51.341061] },
+    "properties": {
+      "name": "Imperium Battlegrounds",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/imperium-battlegrounds/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.516684, 50.75454] },
+    "properties": {
+      "name": "Skirmish Airsoft Exeter",
+      "siteType": "Outdoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/skirmish-airsoft-exeter/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.347994, -52.983877] },
+    "properties": {
+      "name": "North Staffs Airsoft Skirmish Site",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/west-midlands/north-staffs-airsoft-skirmish-site/",
+      "region": "West Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.717836, 58.929895] },
+    "properties": {
+      "name": "Valhalla Airsoft",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/scotland/valhalla-airsoft/",
+      "region": "Scotland",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.25317, 53.266343] },
+    "properties": {
+      "name": "Invasion Woodland",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/invasion-woodland/",
+      "region": "North West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-1.519634, 52.87631] },
+    "properties": {
+      "name": "Black Ops CQB",
+      "siteType": "Indoor",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/hells-airsoft/",
+      "region": "East Midlands"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.19914, 50.756239] },
+    "properties": {
+      "name": "Bravo Romeo Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-west/bravo-romeo-airsoft/",
+      "region": "South West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.817425, 53.557409] },
+    "properties": {
+      "name": "Delta Team 3",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/delta-team-3/",
+      "region": "North West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.066291, 55.796265] },
+    "properties": {
+      "name": "Land Warrior",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/scotland/land-warrior/",
+      "region": "Scotland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [1.056707, 51.914024] },
+    "properties": {
+      "name": "Airsoft GB",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-anglia/airsoft-gb/",
+      "region": "East Anglia",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.406504, 53.221824] },
+    "properties": {
+      "name": "The Farm",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/the-farm/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.827624, 53.799784] },
+    "properties": {
+      "name": "Dagger Woods",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/north-west/dagger-woods/",
+      "region": "North West",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.062178, 52.488859] },
+    "properties": {
+      "name": "High Command (HC2)",
+      "siteType": "Urban",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/west-midlands/west-midlands-hc2/",
+      "region": "West Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.629521, 52.414893] },
+    "properties": {
+      "name": "RAF Grafton Underwood",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/east-midlands/raf-grafton-underwood/",
+      "region": "East Midlands",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-0.945833, 50.881702] },
+    "properties": {
+      "name": "Badlands Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/south-east/badlands-airsoft/",
+      "region": "South East",
+      "isOpen": true
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-2.965505, 56.518365] },
+    "properties": {
+      "name": "Viper Strike",
+      "siteType": "Mixed",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/scotland/viper-strike/",
+      "region": "Scotland"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [-3.970925, 51.770599] },
+    "properties": {
+      "name": "Ammanford Airsoft",
+      "siteType": "Woodland",
+      "primaryGameType": "Skirmish",
+      "urlPath": "/sites/wales/ammanford-airsoft/",
+      "region": "Wales",
+      "isOpen": true
+    }
+  }
+]

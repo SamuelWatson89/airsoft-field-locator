@@ -1,0 +1,10 @@
+mixin fieldCard(field = {})
+
+  .field
+    .details
+      a(href=`/field/${field.slug}`) 
+        p.region #{field.location.region}
+        h2.title #{field.name}
+        p
+          span #{field.siteType[0]} 
+          span #{field.gameTypes[0]}

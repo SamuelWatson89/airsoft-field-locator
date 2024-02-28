@@ -1,0 +1,53 @@
+.button {
+  background-color: $green;
+  border: none;
+  color: $white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  margin-right: 5px;
+  border-radius: 6px;
+
+  &.button-small {
+    padding: 8px 19px;
+    font-size: 14px
+  }
+
+  &:hover {
+    filter: brightness(110%);
+    box-shadow: $shad;
+  }
+
+  &.button-outline {
+    background: transparent;
+    color: $green;
+    border: 2px solid $green;
+
+    &:hover {
+      background: $green;
+      color: $white;
+    }
+  }
+}
+
+.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.button-group {
+  display: flex;
+  gap: 10px;
+  flex-direction: row;
+  margin: 5px 0;
+}
+
+.button-group-wide {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  margin: 5px 0;
+}

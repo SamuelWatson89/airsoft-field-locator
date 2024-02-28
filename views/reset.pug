@@ -1,0 +1,13 @@
+extends layout 
+
+block content
+  .inner  
+    h2= title 
+    form.form(method="POST") 
+      label(for="password") New password 
+      input(type="password" name="password")
+
+      label(for="password-confirm") Confirm new password 
+      input(type="password" name="password-confirm")
+
+      input.button(type="submit" value="Save new password")

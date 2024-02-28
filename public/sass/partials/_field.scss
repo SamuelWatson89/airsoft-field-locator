@@ -1,0 +1,102 @@
+.single-field-hero {
+  padding: 30px 10px;
+}
+
+.field-map {
+  #singleMap {
+    height: 400px;
+    width: 100%;
+    border: 1px solid $green;
+    box-shadow: $shad;
+  }
+}
+
+.information {
+  display: flex;
+  gap: 10px;
+  margin: 0;
+  align-items: flex-start;
+
+  .main {
+    flex: 2;
+    padding: 10px 20px;
+    background: $white;
+    box-shadow: $shad;
+    border: 1px solid $grey;
+    border-radius: 5px;
+
+    .desc {
+      white-space: pre-line;
+    }
+  }
+
+  .side {
+    width: 350px;
+    background: $white;
+    padding: 0 10px;
+    box-shadow: $shad;
+    border-radius: 5px;
+    border: 1px solid darken($white, 10%);
+    position: sticky;
+    top: 10px;
+
+    .address {
+      padding: 0 10px;
+    }
+  }
+}
+
+.field-style {
+  display: flex;
+  gap: 5px;
+}
+
+.field-pricing {
+  display: flex;
+  gap: 15px;
+  margin: 5px 0;
+
+  .price {
+    padding: 10px 20px;
+    border-radius: 5px;
+
+    p {
+      font-size: 3rem;
+      line-height: 1.5;
+      margin: 0;
+
+      &.no-price {
+        font-size: 1.6rem;
+      }
+    }
+  }
+}
+
+.field-links {
+  width: 100%;
+  padding: 10px;
+}
+
+.limits {
+  display: flex;
+  gap: 20px;
+
+  .limit {
+    width: 150px;
+    padding: 10px 15px;
+    background: #d6d6d6;
+    border-radius: 5px;
+    margin: 10px 0;
+
+    p {
+      margin: 0;
+      text-transform: uppercase;
+      font-weight: bold;
+    }
+
+    .icon {
+      height: 50px;
+      display: flex;
+    }
+  }
+}

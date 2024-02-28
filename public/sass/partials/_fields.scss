@@ -1,0 +1,45 @@
+.fields {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0;
+}
+
+.view-all {
+  padding: 10px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.field {
+  background: white;
+  margin: 1.25em 0 0 1.25em;
+  width: calc(33.3333% - 1.25em);
+  box-shadow: $shad;
+
+  .details {
+    padding: 2rem;
+
+    .region {
+      color: $green;
+    }
+
+    p {
+      line-height: 1.2;
+      margin-bottom: 0;
+    }
+  }
+
+  @media all and (max-width: 850px) {
+    width: calc(50% - 1.25em);
+  }
+
+  @media all and (max-width: 550px) {
+    width: 100%;
+  }
+}
+
+.field-hero {
+  position: relative;
+  padding: 10px;
+}

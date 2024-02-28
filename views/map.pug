@@ -1,0 +1,13 @@
+extends layout 
+
+block content 
+  .inner
+    h2= title
+    .map
+      //- .autocomplete
+      //-   input.autocomplete__type(type="text" placeholder="search for anything" name="geolocate")
+      #map
+
+      #mapPopup.map-popup
+        a#mapPopupClose.map-popup-close(href="#")
+        #mapPopupContent

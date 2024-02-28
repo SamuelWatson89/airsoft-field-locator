@@ -1,0 +1,148 @@
+extends layout 
+
+block content 
+  if user && field.author.equals(user._id)
+    div.admin-tools
+      a.button(href=`/fields/${field._id}/edit`)
+        span 📝
+
+  .inner
+    .single-field-hero
+      h2.title 
+        small.green-text= field.location.region
+        a(href=`/field/${field.slug}`) #{title}
+
+    .field-map
+      - const [fieldLng, fieldLat] = field.location.coordinates;
+      #singleMap(data-lat=fieldLat data-lng=fieldLng )
+
+    hr.spacer
+
+    .information 
+      .main
+        .field-info
+          h2 About #{field.name}
+
+          .field-style
+            - const typesArr = []
+
+            if field.siteType
+                each type in field.siteType 
+                  - const x = " " + type
+                  - typesArr.push(x)
+            
+            if field.gameTypes
+                each type in field.gameTypes
+
+                  - const x = " " + type
+                  - typesArr.push(x)
+            p.green-text= typesArr
+
+          p.desc= field.description
+
+          hr.spacer
+
+          .field-facilities
+            p 
+              strong Facilities
+            if field.facilities.length
+              - const facilities = field.facilities
+              - facilities.sort((a, b) => b.length - a.length)
+              ul.tags
+                each facility in facilities 
+                  li.tag
+                    span.tag-link(href=`/tags/${facility}`)
+                      span.tag-text #{facility}
+            else
+              p No details of the site facilities has been provided yet
+          
+          if field.powerLimits
+            hr.spacer
+            p 
+              strong Power Limits*
+              .limits
+                each value, key in field.powerLimits
+                  if value.fps || value.joules
+                    .limit
+                      .icon
+                        != h.icon(key)
+                      p #{key} 
+                      if value.fps
+                        | <strong>FPS:</strong> #{value.fps} <br>
+                      if value.joules
+                        | <strong>Joules:</strong> #{value.joules}
+
+            p 
+              small *If your RIF is over the designated site limits, you will legally not be permitted to use it. <br> Please double check any site rules to confirm limits
+
+          if field.onlineBooking
+            hr.spacer
+            
+            div
+              a.button(href=field.website)
+                span Book online
+
+          if field.ukaraStatus
+            p
+              a(href="https://www.ukara.org.uk/") UKARA </a> Registered
+
+          if field.bioBb
+            p This site allows Biodegradable BB's
+
+          if field.pryo
+            p This site allows Pyro, check the site rules for detailed info.
+
+          if field.tagg
+            p This site allows Tagg rounds, check the site rules for detailed info.
+
+          if field.launcher
+            p This site allows the used of Launcher's, check the site rules for detailed info (Homemade launchers are not advisable anywhere).     
+
+      .side
+        .field-links
+          if field.onlineBooking
+            div.button-group-wide
+              if field.onlineBooking && field.website
+                
+                a.button(href=field.website target="_blank")
+                  span Book online
+
+              if field.onlineBooking && field.contactNumber
+                a.button.button-outline(href=`tel:${field.contactNumber}`)
+                  span Contact Site
+
+          <hr>
+
+        .field-pricing
+          .price
+            strong.green-text Walk-on price
+            if field.prices.walkOn
+              p £#{field.prices.walkOn}
+            else
+              p.no-price See website for price
+            
+          .price
+            strong.green-text Rental price
+            if field.prices.rental
+              p £#{field.prices.rental}
+            else
+              p.no-price See website for price
+        
+        .address 
+          p 
+            strong Address <br>
+            a(href=`https://www.google.com/maps/dir/?api=1&destination=${fieldLat},${fieldLng}` target="_blank")= field.location.address
+
+        if field.socials
+          .socials
+            if field.socials.instagram
+              a.social-icon(href=field.socials.instagram, target="_blank")
+                != h.icon("instagram")     
+
+            if field.socials.twitter
+              a.social-icon(href=field.socials.twitter target="_blank")
+                != h.icon("twitter")     
+                  
+            if field.socials.facebook
+              a.social-icon(href=field.socials.facebook target="_blank")
+                != h.icon("facebook")

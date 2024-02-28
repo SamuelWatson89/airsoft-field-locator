@@ -1,0 +1,26 @@
+html {
+  font-size: 10px;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  background-color: $white;
+  background: repeating-linear-gradient(45deg, #dee6d9, #dee6d9 11px, $white 11px, $white 55px) fixed;
+}
+
+header {
+
+  &.top {
+    box-shadow: $shad;
+  }
+}
+
+.inner {
+  max-width: 1200px;
+  margin: 0 auto;
+
+  @media all and (max-width: 1200px) {
+    padding: 1rem 2rem;
+  }
+}

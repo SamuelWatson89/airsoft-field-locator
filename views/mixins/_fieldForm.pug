@@ -1,0 +1,112 @@
+mixin fieldForm(field = {})
+
+
+  form.form(action=`/add/${field._id || ''}` method="POST"  )
+    label(for="name") Name 
+    input(type="text" name="name" value=field.name)
+
+    label(for="description") Description
+    textarea( name="description")= field.description
+
+    label(for="address") Address
+    input(type="text" id="address" name="location[address]" value=(field.location && field.location.address)) 
+    
+    label(for="region") Region
+    input(type="text" id="region" name="location[region]" value=(field.location && field.location.region)) 
+
+    label(for="lng") Address LNG 
+    input(type="text" id="lng" name="location[coordinates][0]" value=(field.location && field.location.coordinates[0]) required)
+
+    label(for="lat") Address LAT 
+    input(type="text" id="lat" name="location[coordinates][1]" value=(field.location && field.location.coordinates[1]) required)
+
+    label(for="walkOn") Walk-on Price 
+    input(type="number" name="prices[walkOn]" value=(field.prices && field.prices.walkOn))
+
+    label(for="rental") Rental Price 
+    input(type="number" name="prices[rental]" value=(field.prices && field.prices.rental))
+
+    p Facilities
+    - const facilityOption = [ 'Battery charging', 'Camping', 'First aid', 'Hot food', 'Gear hire', 'HPA refill', 'On-site shop', 'Parking', 'On-site tech', 'Covered safe zone', 'Toilets', 'Lockers', 'Shooting range', 'Snacks', 'Drinks']
+    - const facilities = field.facilities || []
+    ul.tags
+      each option in facilityOption
+        .tag.tag-choice
+          input(type="checkbox" id=option value=option name="facilities" checked=(facilities.includes(option)))
+          label(for=option)= option
+
+    p Game Types 
+    - const gameTypesOption = [ 'Battlesim','Filmsim','Historical','Milsim','Night-ops','Skirmish','Speedsoft','Infestation', "Other" ]
+    - const gameTypes = field.gameTypes || []
+    ul.tags
+      each option in gameTypesOption
+        .tag.tag-choice
+          input(type="checkbox" id=option value=option name="gameTypes" checked=(gameTypes.includes(option)))
+          label(for=option)= option
+
+    p Site Types 
+    - const siteTypeOptions = ['Indoor', 'Outdoor', 'Mixed', 'Urban', 'Woodland' ]
+    - const siteType = field.siteType || []
+    ul.tags
+      each option in siteTypeOptions
+        .tag.tag-choice
+          input(type="checkbox" id=option value=option name="siteType" checked=(siteType.includes(option)))
+          label(for=option)= option
+
+    p Power Limits
+    label AEG
+    input(type="number" name="powerLimits[aeg][fps]" placeholder="FPS (Feet Per Second)" value=(field.powerLimits && field.powerLimits.aeg.fps))
+    input(type="number" name="powerLimits[aeg][joules]" placeholder="Joules" step=".01" value=(field.powerLimits && field.powerLimits.aeg.joules))
+
+    label DMR
+    input(type="number" name="powerLimits[dmr][fps]" placeholder="FPS (Feet Per Second)" value=(field.powerLimits && field.powerLimits.dmr.fps))
+    input(type="number" name="powerLimits[dmr][joules]" placeholder="Joules" step=".01" value=(field.powerLimits && field.powerLimits.dmr.joules))
+
+    label Bolt
+    input(type="number" name="powerLimits[bolt][fps]" placeholder="FPS (Feet Per Second)" value=(field.powerLimits && field.powerLimits.bolt.fps))
+    input(type="number" name="powerLimits[bolt][joules]" placeholder="Joules" step=".01" value=(field.powerLimits && field.powerLimits.bolt.joules))
+
+    label Shotgun
+    input(type="number" name="powerLimits[shotgun][fps]" placeholder="FPS (Feet Per Second)" value=(field.powerLimits && field.powerLimits.shotgun.fps))
+    input(type="number" name="powerLimits[shotgun][joules]" placeholder="Joules" step=".01" value=(field.powerLimits && field.powerLimits.shotgun.joules))
+
+    p Site Allowances
+    ul.tags
+      .tag.tag-choice
+        input(type="checkbox" id="bioBb" value="1" name="bioBb" checked=(field.bioBb))
+        label(for="bioBb") Biodegrade BB's
+      .tag.tag-choice
+        input(type="checkbox" id="pyro" value="1" name="pyro" checked=(field.pyro))
+        label(for="pyro") Pyro
+      .tag.tag-choice
+        input(type="checkbox" id="tagg" value="1" name="tagg" checked=(field.tagg))
+        label(for="tagg") tagg rounds
+      .tag.tag-choice
+        input(type="checkbox" id="launcher" value="1" name="launcher" checked=(field.launcher))
+        label(for="launcher") Launcher's
+      .tag.tag-choice
+        input(type="checkbox" id="onlineBooking" value="1" name="onlineBooking" checked=(field.onlineBooking))
+        label(for="onlineBooking") Online Booking
+      .tag.tag-choice
+        input(type="checkbox" id="ukaraStatus" value="1" name="ukaraStatus" checked=(field.ukaraStatus))
+        label(for="ukaraStatus") UKARA Registered
+
+
+    label(for="website") Website
+    input(type="text" name="website" value=field.website) 
+
+    label(for="contactNumber") Contact number
+    input(type="number" name="contactNumber" value=field.contactNumber)
+    
+    p Socials
+    label(for="socials[instagram]") instagram
+    input(type="text" name="socials[instagram]" value=(field.socials && field.socials.instagram))
+    
+    label(for="socials[facebook]") facebook
+    input(type="text" name="socials[facebook]" value=(field.socials && field.socials.facebook))
+    
+    label(for="socials[twitter]") twitter
+    input(type="text" name="socials[twitter]" value=(field.socials && field.socials.twitter))
+
+
+    input(type="submit" value="Save ➡️" class="button")

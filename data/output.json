@@ -1,0 +1,2823 @@
+[
+  {
+    "name": "Fireball Squadron",
+    "slug": "fireball-squadron",
+    "location": {
+      "coordinates": [
+        -1.774563,
+        52.591861
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "NORTHSTAFFS AIRSOFT",
+    "slug": "northstaffs-airsoft",
+    "location": {
+      "coordinates": [
+        0,
+        0
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Fort",
+    "slug": "the-fort",
+    "location": {
+      "coordinates": [
+        -3.207213,
+        56.161174
+      ],
+      "region": "Scotland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Skirmish Airsoft",
+    "slug": "skirmish-airsoft",
+    "location": {
+      "coordinates": [
+        -1.081681,
+        53.237147
+      ],
+      "region": "Yorkshire",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "NSC Airsoft",
+    "slug": "nsc-airsoft",
+    "location": {
+      "coordinates": [
+        -1.89238,
+        55.090212
+      ],
+      "region": "North East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Bunker 51",
+    "slug": "bunker-51",
+    "location": {
+      "coordinates": [
+        0.034627,
+        51.494418
+      ],
+      "region": "Greater London",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Absolute Airsoft",
+    "slug": "absolute-airsoft",
+    "location": {
+      "coordinates": [
+        -1.012202,
+        51.479912
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Section 8",
+    "slug": "section-8",
+    "location": {
+      "coordinates": [
+        -3.815403,
+        55.78575
+      ],
+      "region": "Scotland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "UCAP Vendetta",
+    "slug": "ucap-vendetta",
+    "location": {
+      "coordinates": [
+        -2.252083,
+        51.865655
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Midlands Airsoft Wargames",
+    "slug": "midlands-airsoft-wargames",
+    "location": {
+      "coordinates": [
+        -0.936675,
+        52.767117
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "West Midlands F.O.B.",
+    "slug": "west-midlands-f-o-b",
+    "location": {
+      "coordinates": [
+        -1.961402,
+        52.974074
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Northern Alliance Airsoft",
+    "slug": "northern-alliance-airsoft",
+    "location": {
+      "coordinates": [
+        -1.416604,
+        54.147928
+      ],
+      "region": "North East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Special Ops Airsoft",
+    "slug": "special-ops-airsoft",
+    "location": {
+      "coordinates": [
+        -0.688471,
+        52.135298
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Jungle",
+    "slug": "the-jungle",
+    "location": {
+      "coordinates": [
+        -1.058193,
+        53.181092
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Alpha 55",
+    "slug": "alpha-55",
+    "location": {
+      "coordinates": [
+        -3.176768,
+        53.227656
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Scorpion Airsoft",
+    "slug": "scorpion-airsoft",
+    "location": {
+      "coordinates": [
+        0.73297,
+        52.789862
+      ],
+      "region": "East Anglia",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "NTACentre",
+    "slug": "ntacentre",
+    "location": {
+      "coordinates": [
+        -1.456111,
+        54.799297
+      ],
+      "region": "North East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Dragon Valley ",
+    "slug": "dragon-valley",
+    "location": {
+      "coordinates": [
+        -2.743741,
+        51.618017
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Eversley Bravo",
+    "slug": "eversley-bravo",
+    "location": {
+      "coordinates": [
+        -0.878788,
+        51.335726
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Pheonix Airsoft",
+    "slug": "pheonix-airsoft",
+    "location": {
+      "coordinates": [
+        -1.123731,
+        53.233078
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "AWA Herts",
+    "slug": "awa-herts",
+    "location": {
+      "coordinates": [
+        0.116113,
+        51.845225
+      ],
+      "region": "East Anglia",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "StrikeForce CQB",
+    "slug": "strikeforce-cqb",
+    "location": {
+      "coordinates": [
+        -2.249943,
+        51.856148
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Mill Portadown",
+    "slug": "the-mill-portadown",
+    "location": {
+      "coordinates": [
+        -6.399828,
+        54.414781
+      ],
+      "region": "Northern Ireland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Ultimate Wargames",
+    "slug": "ultimate-wargames",
+    "location": {
+      "coordinates": [
+        0.266756,
+        51.375338
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Dirty Dog Airsoft",
+    "slug": "dirty-dog-airsoft",
+    "location": {
+      "coordinates": [
+        -1.632032,
+        54.63762
+      ],
+      "region": "North East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Killhouse",
+    "slug": "the-killhouse",
+    "location": {
+      "coordinates": [
+        -1.666405,
+        53.677233
+      ],
+      "region": "Yorkshire",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Ancaster Leisure",
+    "slug": "ancaster-leisure",
+    "location": {
+      "coordinates": [
+        -0.537108,
+        52.972028
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Black Ops Cribbs",
+    "slug": "black-ops-cribbs",
+    "location": {
+      "coordinates": [
+        -2.623672,
+        51.52553
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Ground Zero Airsoft",
+    "slug": "ground-zero-airsoft",
+    "location": {
+      "coordinates": [
+        -1.810773,
+        50.86102
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Predator Airsoft",
+    "slug": "predator-airsoft",
+    "location": {
+      "coordinates": [
+        -5.857871,
+        54.359059
+      ],
+      "region": "Northern Ireland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Thunder Park ",
+    "slug": "thunder-park",
+    "location": {
+      "coordinates": [
+        -4.740546,
+        50.396173
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Bunker",
+    "slug": "bunker",
+    "location": {
+      "coordinates": [
+        -3.458682,
+        50.754462
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Red Alert",
+    "slug": "red-alert",
+    "location": {
+      "coordinates": [
+        -1.243294,
+        51.419343
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Red Works Airsoft",
+    "slug": "red-works-airsoft",
+    "location": {
+      "coordinates": [
+        -3.027043,
+        53.008837
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Invicta Woodland Site",
+    "slug": "invicta-woodland-site",
+    "location": {
+      "coordinates": [
+        0.502018,
+        51.142057
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Tactical Warfare",
+    "slug": "tactical-warfare",
+    "location": {
+      "coordinates": [
+        -0.009114,
+        51.329194
+      ],
+      "region": "Greater London",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Mayhem Airsoft",
+    "slug": "mayhem-airsoft",
+    "location": {
+      "coordinates": [
+        0.144996,
+        51.653395
+      ],
+      "region": "Greater London",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Bunker",
+    "slug": "the-bunker",
+    "location": {
+      "coordinates": [
+        -4.158183,
+        52.293377
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Tuddenham",
+    "slug": "tuddenham",
+    "location": {
+      "coordinates": [
+        0.566379,
+        52.304377
+      ],
+      "region": "East Anglia",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Camouflage Airsoft: Alton",
+    "slug": "camouflage-airsoft-alton",
+    "location": {
+      "coordinates": [
+        -1.023351,
+        51.069536
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Dragons Lair Airsoft",
+    "slug": "dragons-lair-airsoft",
+    "location": {
+      "coordinates": [
+        0.254458,
+        51.67387
+      ],
+      "region": "East Anglia",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Hockley Airsoft Arena",
+    "slug": "hockley-airsoft-arena",
+    "location": {
+      "coordinates": [
+        0.654877,
+        51.602877
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Red 1 Chislehurst",
+    "slug": "red-1-chislehurst",
+    "location": {
+      "coordinates": [
+        0.081058,
+        51.418139
+      ],
+      "region": "Greater London",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Parkgate",
+    "slug": "parkgate",
+    "location": {
+      "coordinates": [
+        -3.076821,
+        53.314517
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Black Ops Portishead",
+    "slug": "black-ops-portishead",
+    "location": {
+      "coordinates": [
+        -2.811217,
+        51.471151
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Hollow Point Airsoft",
+    "slug": "hollow-point-airsoft",
+    "location": {
+      "coordinates": [
+        -1.967618,
+        51.11249
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Rednal Combat",
+    "slug": "rednal-combat",
+    "location": {
+      "coordinates": [
+        -2.9388,
+        52.843536
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Ace Airsoft War Games",
+    "slug": "ace-airsoft-war-games",
+    "location": {
+      "coordinates": [
+        -2.29853,
+        52.656433
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Bedlam – Nottingham",
+    "slug": "bedlam--nottingham",
+    "location": {
+      "coordinates": [
+        -1.092402,
+        53.247656
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Over the Top Airsoft Club",
+    "slug": "over-the-top-airsoft-club",
+    "location": {
+      "coordinates": [
+        -4.279224,
+        53.344931
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Spartan Woodland",
+    "slug": "spartan-woodland",
+    "location": {
+      "coordinates": [
+        -2.758884,
+        51.389999
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Apex Outdoor Activities ltd",
+    "slug": "apex-outdoor-activities-ltd",
+    "location": {
+      "coordinates": [
+        -1.682245,
+        54.443653
+      ],
+      "region": "North East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Finmere Airsoft",
+    "slug": "finmere-airsoft",
+    "location": {
+      "coordinates": [
+        -1.057403,
+        51.981072
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "UCAP Bunker",
+    "slug": "ucap-bunker",
+    "location": {
+      "coordinates": [
+        -1.108034,
+        50.856111
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "J.A.G Airsoft",
+    "slug": "j-a-g-airsoft",
+    "location": {
+      "coordinates": [
+        -0.621827,
+        52.434643
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Camouflage Airsoft: Bournemouth",
+    "slug": "camouflage-airsoft-bournemouth",
+    "location": {
+      "coordinates": [
+        -1.818062,
+        50.766196
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Gunbarrel Creek",
+    "slug": "gunbarrel-creek",
+    "location": {
+      "coordinates": [
+        -1.415792,
+        52.766884
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Depot",
+    "slug": "the-depot",
+    "location": {
+      "coordinates": [
+        -4.671899,
+        55.926084
+      ],
+      "region": "Scotland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Epsom CQB Bunker",
+    "slug": "epsom-cqb-bunker",
+    "location": {
+      "coordinates": [
+        -0.262225,
+        51.323637
+      ],
+      "region": "Greater London",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Worthing Airsoft",
+    "slug": "worthing-airsoft",
+    "location": {
+      "coordinates": [
+        -0.440816,
+        50.842065
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Better Battles Airsoft",
+    "slug": "better-battles-airsoft",
+    "location": {
+      "coordinates": [
+        -1.704226,
+        53.174289
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Grange",
+    "slug": "the-grange",
+    "location": {
+      "coordinates": [
+        -1.659093,
+        52.384767
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "TM Airsoft",
+    "slug": "tm-airsoft",
+    "location": {
+      "coordinates": [
+        -1.913392,
+        52.21119
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "DTW Airsoft",
+    "slug": "dtw-airsoft",
+    "location": {
+      "coordinates": [
+        0.9171,
+        51.8888
+      ],
+      "region": "East Anglia",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Strike Back Events",
+    "slug": "strike-back-events",
+    "location": {
+      "coordinates": [
+        -1.234182,
+        50.961175
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "S51 Airsoft",
+    "slug": "s51-airsoft",
+    "location": {
+      "coordinates": [
+        -5.985716,
+        54.750962
+      ],
+      "region": "Northern Ireland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Kingdom",
+    "slug": "the-kingdom",
+    "location": {
+      "coordinates": [
+        -2.012987,
+        52.968977
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Warren Wood",
+    "slug": "warren-wood",
+    "location": {
+      "coordinates": [
+        -0.119159,
+        51.736007
+      ],
+      "region": "Greater London",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Frontier Airsoft",
+    "slug": "frontier-airsoft",
+    "location": {
+      "coordinates": [
+        -2.113945,
+        52.7397
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Fear Masters Airsoft",
+    "slug": "fear-masters-airsoft",
+    "location": {
+      "coordinates": [
+        -1.44588,
+        53.672258
+      ],
+      "region": "Yorkshire",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "YTA The Pines",
+    "slug": "yta-the-pines",
+    "location": {
+      "coordinates": [
+        -1.028408,
+        53.455449
+      ],
+      "region": "Yorkshire",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "All Arms",
+    "slug": "all-arms",
+    "location": {
+      "coordinates": [
+        -2.406241,
+        53.772219
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Battle Sector X",
+    "slug": "battle-sector-x",
+    "location": {
+      "coordinates": [
+        0.517201,
+        51.398738
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Legion Airsoft",
+    "slug": "legion-airsoft",
+    "location": {
+      "coordinates": [
+        -0.834366,
+        51.080819
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "YTA The Kingdom",
+    "slug": "yta-the-kingdom",
+    "location": {
+      "coordinates": [
+        -1.542531,
+        53.608049
+      ],
+      "region": "Yorkshire",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Netley Hall",
+    "slug": "netley-hall",
+    "location": {
+      "coordinates": [
+        -2.780963,
+        52.610804
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "District23",
+    "slug": "district23",
+    "location": {
+      "coordinates": [
+        -1.277947,
+        54.60768
+      ],
+      "region": "North East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Creek",
+    "slug": "the-creek",
+    "location": {
+      "coordinates": [
+        -1.90867,
+        53.645725
+      ],
+      "region": "Yorkshire",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Crackshots",
+    "slug": "crackshots",
+    "location": {
+      "coordinates": [
+        -3.612583,
+        50.69392
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Sentinel Airsoft",
+    "slug": "sentinel-airsoft",
+    "location": {
+      "coordinates": [
+        -0.580005,
+        51.84998
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Citadel CQE",
+    "slug": "the-citadel-cqe",
+    "location": {
+      "coordinates": [
+        1.300339,
+        51.117588
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "ACE Combat",
+    "slug": "ace-combat",
+    "location": {
+      "coordinates": [
+        0.424561,
+        51.195648
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Tower Airsoft",
+    "slug": "tower-airsoft",
+    "location": {
+      "coordinates": [
+        0.45074,
+        51.637372
+      ],
+      "region": "East Anglia",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Monica CQB",
+    "slug": "monica-cqb",
+    "location": {
+      "coordinates": [
+        -2.186656,
+        53.034988
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Alpha",
+    "slug": "alpha",
+    "location": {
+      "coordinates": [
+        -0.891807,
+        51.335179
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Ironsight Airsoft",
+    "slug": "ironsight-airsoft",
+    "location": {
+      "coordinates": [
+        -1.485416,
+        51.170993
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "FRV Airsoft",
+    "slug": "frv-airsoft",
+    "location": {
+      "coordinates": [
+        -5.789279,
+        54.357856
+      ],
+      "region": "Northern Ireland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Airsoft Plantation",
+    "slug": "airsoft-plantation",
+    "location": {
+      "coordinates": [
+        0.455478,
+        51.643856
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Spartan CQB",
+    "slug": "spartan-cqb",
+    "location": {
+      "coordinates": [
+        -2.112887,
+        51.462716
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "SAC – Ayrshire",
+    "slug": "sac--ayrshire",
+    "location": {
+      "coordinates": [
+        0,
+        0
+      ],
+      "region": "Scotland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Division 22",
+    "slug": "division-22",
+    "location": {
+      "coordinates": [
+        -1.057713,
+        53.158308
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "REDCON-2",
+    "slug": "redcon-2",
+    "location": {
+      "coordinates": [
+        -1.316368,
+        51.697255
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "AMS No Mans Land Airsoft",
+    "slug": "ams-no-mans-land-airsoft",
+    "location": {
+      "coordinates": [
+        -1.396956,
+        53.581189
+      ],
+      "region": "Yorkshire",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Black Hills Airsoft",
+    "slug": "black-hills-airsoft",
+    "location": {
+      "coordinates": [
+        -1.411884,
+        53.286345
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Players of War",
+    "slug": "players-of-war",
+    "location": {
+      "coordinates": [
+        -3.85565,
+        55.981483
+      ],
+      "region": "Scotland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Enemy Down",
+    "slug": "enemy-down",
+    "location": {
+      "coordinates": [
+        -3.351437,
+        55.909492
+      ],
+      "region": "Scotland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Level 2",
+    "slug": "level-2",
+    "location": {
+      "coordinates": [
+        -2.48394,
+        53.526036
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Stirling: The Trees",
+    "slug": "stirling-the-trees",
+    "location": {
+      "coordinates": [
+        -2.959972,
+        52.274333
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Phoenix",
+    "slug": "phoenix",
+    "location": {
+      "coordinates": [
+        -2.495048,
+        53.418871
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Combat Airsoft",
+    "slug": "combat-airsoft",
+    "location": {
+      "coordinates": [
+        -6.52207,
+        54.48131
+      ],
+      "region": "Northern Ireland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Arena Airsoft",
+    "slug": "arena-airsoft",
+    "location": {
+      "coordinates": [
+        -0.073793,
+        53.570956
+      ],
+      "region": "North East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "SAC – Aberdeenshire",
+    "slug": "sac--aberdeenshire",
+    "location": {
+      "coordinates": [
+        -1.887533,
+        57.60783
+      ],
+      "region": "Scotland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Foundry",
+    "slug": "the-foundry",
+    "location": {
+      "coordinates": [
+        -1.495172,
+        53.767907
+      ],
+      "region": "Yorkshire",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Cool Under Fire",
+    "slug": "cool-under-fire",
+    "location": {
+      "coordinates": [
+        0.792664,
+        51.298164
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "YTA The Manor",
+    "slug": "yta-the-manor",
+    "location": {
+      "coordinates": [
+        -1.482989,
+        53.4909
+      ],
+      "region": "Yorkshire",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Reforger Airsoft",
+    "slug": "reforger-airsoft",
+    "location": {
+      "coordinates": [
+        -0.449661,
+        51.68576
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Orkan",
+    "slug": "orkan",
+    "location": {
+      "coordinates": [
+        -2.892127,
+        58.871014
+      ],
+      "region": "Scotland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Dogtag Airsoft",
+    "slug": "dogtag-airsoft",
+    "location": {
+      "coordinates": [
+        -0.239835,
+        51.089626
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Invicta Black Site CQB",
+    "slug": "invicta-black-site-cqb",
+    "location": {
+      "coordinates": [
+        0.412263,
+        51.226335
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "HQ Airsoft",
+    "slug": "hq-airsoft",
+    "location": {
+      "coordinates": [
+        -0.460371,
+        53.994871
+      ],
+      "region": "North East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Warminster Airsoft",
+    "slug": "warminster-airsoft",
+    "location": {
+      "coordinates": [
+        -2.206432,
+        51.213811
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Gaol Events ",
+    "slug": "the-gaol-events",
+    "location": {
+      "coordinates": [
+        0,
+        0
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Vault",
+    "slug": "the-vault",
+    "location": {
+      "coordinates": [
+        -2.284752,
+        53.598473
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Halo Mill: Proving Grounds",
+    "slug": "halo-mill-proving-grounds",
+    "location": {
+      "coordinates": [
+        -0.984699,
+        53.854179
+      ],
+      "region": "Yorkshire",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Swansea Valley Airsoft",
+    "slug": "swansea-valley-airsoft",
+    "location": {
+      "coordinates": [
+        -3.790705,
+        51.77136
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Battle Stations CQB",
+    "slug": "battle-stations-cqb",
+    "location": {
+      "coordinates": [
+        0.935327,
+        52.586915
+      ],
+      "region": "East Anglia",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Ambush Airsoft",
+    "slug": "ambush-airsoft",
+    "location": {
+      "coordinates": [
+        -0.426577,
+        51.300403
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Airsoft Cardiff",
+    "slug": "airsoft-cardiff",
+    "location": {
+      "coordinates": [
+        -3.233749,
+        51.537364
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Trigger Happy",
+    "slug": "trigger-happy",
+    "location": {
+      "coordinates": [
+        -5.88671,
+        54.60069
+      ],
+      "region": "Northern Ireland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Humber Airsoft",
+    "slug": "humber-airsoft",
+    "location": {
+      "coordinates": [
+        -0.485096,
+        53.682128
+      ],
+      "region": "Yorkshire",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Bomb Dump",
+    "slug": "the-bomb-dump",
+    "location": {
+      "coordinates": [
+        -1.562481,
+        51.1377
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Lagan Airsoft",
+    "slug": "lagan-airsoft",
+    "location": {
+      "coordinates": [
+        -6.00248,
+        54.55329
+      ],
+      "region": "Northern Ireland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Anzio Camp",
+    "slug": "anzio-camp",
+    "location": {
+      "coordinates": [
+        -1.99021,
+        53.12859
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Woodland",
+    "slug": "the-woodland",
+    "location": {
+      "coordinates": [
+        -1.147507,
+        54.525782
+      ],
+      "region": "North East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Combat Airsoft",
+    "slug": "combat-airsoft",
+    "location": {
+      "coordinates": [
+        0.854909,
+        52.453103
+      ],
+      "region": "East Anglia",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Apocalypse Airsoft",
+    "slug": "apocalypse-airsoft",
+    "location": {
+      "coordinates": [
+        -0.031511,
+        52.073301
+      ],
+      "region": "East Anglia",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Evolution Hill Airsoft",
+    "slug": "evolution-hill-airsoft",
+    "location": {
+      "coordinates": [
+        -2.996833,
+        56.511718
+      ],
+      "region": "Scotland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Hardline Airsoft",
+    "slug": "hardline-airsoft",
+    "location": {
+      "coordinates": [
+        -2.247834,
+        53.814138
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Delta4 Airsoft",
+    "slug": "delta4-airsoft",
+    "location": {
+      "coordinates": [
+        -3.309288,
+        52.310315
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Combat Zone",
+    "slug": "combat-zone",
+    "location": {
+      "coordinates": [
+        -0.734009,
+        53.260666
+      ],
+      "region": "North East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Big One MK1",
+    "slug": "the-big-one-mk1",
+    "location": {
+      "coordinates": [
+        -0.230748,
+        53.380684
+      ],
+      "region": "North East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Bristol Airsoft",
+    "slug": "bristol-airsoft",
+    "location": {
+      "coordinates": [
+        -2.593126,
+        51.457652
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Tazball Combat Arena",
+    "slug": "tazball-combat-arena",
+    "location": {
+      "coordinates": [
+        -4.190194,
+        57.350813
+      ],
+      "region": "Scotland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "No Limits",
+    "slug": "no-limits",
+    "location": {
+      "coordinates": [
+        -1.621202,
+        54.953242
+      ],
+      "region": "North East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Operation Tacforce",
+    "slug": "operation-tacforce",
+    "location": {
+      "coordinates": [
+        -1.26733,
+        52.891568
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Southcoast CQB",
+    "slug": "southcoast-cqb",
+    "location": {
+      "coordinates": [
+        -1.173597,
+        50.790531
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Bravo 22",
+    "slug": "bravo-22",
+    "location": {
+      "coordinates": [
+        -2.828666,
+        53.471236
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Future Survival",
+    "slug": "future-survival",
+    "location": {
+      "coordinates": [
+        0.365011,
+        51.442754
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Ambush Activities",
+    "slug": "ambush-activities",
+    "location": {
+      "coordinates": [
+        -1.236874,
+        50.92024
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Chemical Airsoft",
+    "slug": "chemical-airsoft",
+    "location": {
+      "coordinates": [
+        -2.10618,
+        53.50883
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Splatoon",
+    "slug": "splatoon",
+    "location": {
+      "coordinates": [
+        0.552827,
+        51.603976
+      ],
+      "region": "East Anglia",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Survival Paintball",
+    "slug": "survival-paintball",
+    "location": {
+      "coordinates": [
+        -4.091592,
+        50.989662
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Bunker CQB",
+    "slug": "bunker-cqb",
+    "location": {
+      "coordinates": [
+        -3.134708,
+        51.635211
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Southdown Airsoft",
+    "slug": "southdown-airsoft",
+    "location": {
+      "coordinates": [
+        -0.695484,
+        50.961038
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Base CQC",
+    "slug": "the-base-cqc",
+    "location": {
+      "coordinates": [
+        -1.926645,
+        51.441254
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Ridge",
+    "slug": "the-ridge",
+    "location": {
+      "coordinates": [
+        -0.433385,
+        51.956953
+      ],
+      "region": "East Anglia",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Stormforce Airsoft",
+    "slug": "stormforce-airsoft",
+    "location": {
+      "coordinates": [
+        -1.898563,
+        52.73616
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Department",
+    "slug": "the-department",
+    "location": {
+      "coordinates": [
+        -1.238727,
+        52.558003
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Hard Target",
+    "slug": "hard-target",
+    "location": {
+      "coordinates": [
+        -3.686793,
+        51.514595
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Driver Wood",
+    "slug": "driver-wood",
+    "location": {
+      "coordinates": [
+        -0.131038,
+        51.12895
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "101 Airsoft Scarborough ",
+    "slug": "101-airsoft-scarborough",
+    "location": {
+      "coordinates": [
+        -0.429947,
+        54.284135
+      ],
+      "region": "Yorkshire",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Red Valley Airsoft",
+    "slug": "red-valley-airsoft",
+    "location": {
+      "coordinates": [
+        -4.379876,
+        51.848266
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Skirmish Central",
+    "slug": "skirmish-central",
+    "location": {
+      "coordinates": [
+        -0.628944,
+        52.224929
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The ExSite",
+    "slug": "the-exsite",
+    "location": {
+      "coordinates": [
+        -3.178743,
+        53.135531
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Hilton Park Airsoft",
+    "slug": "hilton-park-airsoft",
+    "location": {
+      "coordinates": [
+        -2.08573,
+        52.64471
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Warzone",
+    "slug": "warzone",
+    "location": {
+      "coordinates": [
+        -1.376234,
+        52.440953
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Lindey Airsoft",
+    "slug": "lindey-airsoft",
+    "location": {
+      "coordinates": [
+        -0.003001,
+        53.36936
+      ],
+      "region": "North East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Exeter Airsoft",
+    "slug": "exeter-airsoft",
+    "location": {
+      "coordinates": [
+        -3.63175,
+        50.692372
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Skirmish Combat Games",
+    "slug": "skirmish-combat-games",
+    "location": {
+      "coordinates": [
+        -1.180155,
+        52.433
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Halo Mill",
+    "slug": "halo-mill",
+    "location": {
+      "coordinates": [
+        -1.856099,
+        53.624897
+      ],
+      "region": "Yorkshire",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Echelon Airsoft",
+    "slug": "echelon-airsoft",
+    "location": {
+      "coordinates": [
+        0.367292,
+        51.442452
+      ],
+      "region": "Greater London",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Rogue Airsoft",
+    "slug": "rogue-airsoft",
+    "location": {
+      "coordinates": [
+        -4.26005,
+        50.415717
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Outpost Airsoft",
+    "slug": "outpost-airsoft",
+    "location": {
+      "coordinates": [
+        -2.980163,
+        53.150375
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Matlock Combat Games",
+    "slug": "matlock-combat-games",
+    "location": {
+      "coordinates": [
+        -1.510707,
+        53.158743
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Battle Stations: Hunting Grounds",
+    "slug": "battle-stations-hunting-grounds",
+    "location": {
+      "coordinates": [
+        -0.063841,
+        53.147976
+      ],
+      "region": "East Anglia",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Spec Ops Airsoft",
+    "slug": "spec-ops-airsoft",
+    "location": {
+      "coordinates": [
+        -2.17107,
+        50.747813
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Stealth Woods",
+    "slug": "stealth-woods",
+    "location": {
+      "coordinates": [
+        -1.70249,
+        53.944967
+      ],
+      "region": "Yorkshire",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Moor Lane Airsoft",
+    "slug": "moor-lane-airsoft",
+    "location": {
+      "coordinates": [
+        -2.621761,
+        54.096057
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Manx Airsoft Club",
+    "slug": "manx-airsoft-club",
+    "location": {
+      "coordinates": [
+        -4.514182,
+        54.376543
+      ],
+      "region": "Isle of Man",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Fife Wargames",
+    "slug": "fife-wargames",
+    "location": {
+      "coordinates": [
+        -2.617037,
+        56.277457
+      ],
+      "region": "Scotland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Coms Site 3",
+    "slug": "coms-site-3",
+    "location": {
+      "coordinates": [
+        -1.261679,
+        52.138404
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Z MART CQB",
+    "slug": "z-mart-cqb",
+    "location": {
+      "coordinates": [
+        -1.325221,
+        51.399614
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Battleground Airsoft",
+    "slug": "battleground-airsoft",
+    "location": {
+      "coordinates": [
+        0.796796,
+        52.64276
+      ],
+      "region": "East Anglia",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Mad Momma’s Airsoft",
+    "slug": "mad-mommas-airsoft",
+    "location": {
+      "coordinates": [
+        -4.266455,
+        50.446324
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Bunker 31",
+    "slug": "bunker-31",
+    "location": {
+      "coordinates": [
+        -2.425274,
+        57.098283
+      ],
+      "region": "Scotland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "UCAP Valiant",
+    "slug": "ucap-valiant",
+    "location": {
+      "coordinates": [
+        -2.437678,
+        50.717123
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Skirmish CQB",
+    "slug": "skirmish-cqb",
+    "location": {
+      "coordinates": [
+        -1.245778,
+        53.100307
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "C3 Tactical",
+    "slug": "c3-tactical",
+    "location": {
+      "coordinates": [
+        -2.74446,
+        51.76211
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Adrenalin Airsoft",
+    "slug": "adrenalin-airsoft",
+    "location": {
+      "coordinates": [
+        -1.764186,
+        54.432516
+      ],
+      "region": "Yorkshire",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Battle Camp Activity Centre ",
+    "slug": "battle-camp-activity-centre",
+    "location": {
+      "coordinates": [
+        -7.47794,
+        54.157515
+      ],
+      "region": "Northern Ireland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Skirmish Airsoft Billericay",
+    "slug": "skirmish-airsoft-billericay",
+    "location": {
+      "coordinates": [
+        0.44703,
+        51.622034
+      ],
+      "region": "East Anglia",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Battle Lakes",
+    "slug": "battle-lakes",
+    "location": {
+      "coordinates": [
+        0.300321,
+        51.10381
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Armoury",
+    "slug": "the-armoury",
+    "location": {
+      "coordinates": [
+        -2.916138,
+        53.038657
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Trail",
+    "slug": "the-trail",
+    "location": {
+      "coordinates": [
+        -1.91622,
+        51.518036
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Mill",
+    "slug": "the-mill",
+    "location": {
+      "coordinates": [
+        -2.640607,
+        53.5408
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "UCAP GreenOps",
+    "slug": "ucap-greenops",
+    "location": {
+      "coordinates": [
+        -0.790671,
+        51.064619
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Killzone Airsoft",
+    "slug": "killzone-airsoft",
+    "location": {
+      "coordinates": [
+        -1.347519,
+        52.953175
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Camp Sparta",
+    "slug": "camp-sparta",
+    "location": {
+      "coordinates": [
+        -0.578564,
+        53.468377
+      ],
+      "region": "North East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Skirmish Wycombe Airsoft",
+    "slug": "skirmish-wycombe-airsoft",
+    "location": {
+      "coordinates": [
+        -0.813792,
+        51.62308
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Maddog Airsoft",
+    "slug": "maddog-airsoft",
+    "location": {
+      "coordinates": [
+        -0.264988,
+        52.326173
+      ],
+      "region": "East Anglia",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Yard",
+    "slug": "the-yard",
+    "location": {
+      "coordinates": [
+        -4.008696,
+        51.832361
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Taskforce Airsoft",
+    "slug": "taskforce-airsoft",
+    "location": {
+      "coordinates": [
+        -3.4784,
+        51.4695
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Cotswold Airsoft",
+    "slug": "cotswold-airsoft",
+    "location": {
+      "coordinates": [
+        -1.759591,
+        52.015597
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Midwales Airsoft",
+    "slug": "midwales-airsoft",
+    "location": {
+      "coordinates": [
+        -3.355254,
+        52.40102
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Ravenshead Airsoft",
+    "slug": "ravenshead-airsoft",
+    "location": {
+      "coordinates": [
+        -1.154966,
+        53.08615
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Raw War Airsoft Cumbria",
+    "slug": "raw-war-airsoft-cumbria",
+    "location": {
+      "coordinates": [
+        -3.305758,
+        54.778738
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Combat Action Games",
+    "slug": "combat-action-games",
+    "location": {
+      "coordinates": [
+        1.193157,
+        52.712254
+      ],
+      "region": "East Anglia",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "CQB Airsoft",
+    "slug": "cqb-airsoft",
+    "location": {
+      "coordinates": [
+        -2.141067,
+        51.376155
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Invasion CQC",
+    "slug": "invasion-cqc",
+    "location": {
+      "coordinates": [
+        -2.160967,
+        53.430117
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Urban Airsoft",
+    "slug": "urban-airsoft",
+    "location": {
+      "coordinates": [
+        -0.715377,
+        52.692344
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Imperium Battlegrounds",
+    "slug": "imperium-battlegrounds",
+    "location": {
+      "coordinates": [
+        0.873364,
+        51.341061
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Skirmish Airsoft Exeter",
+    "slug": "skirmish-airsoft-exeter",
+    "location": {
+      "coordinates": [
+        -3.516684,
+        50.75454
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "North Staffs Airsoft Skirmish Site",
+    "slug": "north-staffs-airsoft-skirmish-site",
+    "location": {
+      "coordinates": [
+        -2.347994,
+        -52.983877
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Valhalla Airsoft",
+    "slug": "valhalla-airsoft",
+    "location": {
+      "coordinates": [
+        -2.717836,
+        58.929895
+      ],
+      "region": "Scotland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Invasion Woodland",
+    "slug": "invasion-woodland",
+    "location": {
+      "coordinates": [
+        -2.25317,
+        53.266343
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Black Ops CQB",
+    "slug": "black-ops-cqb",
+    "location": {
+      "coordinates": [
+        -1.519634,
+        52.87631
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Bravo Romeo Airsoft",
+    "slug": "bravo-romeo-airsoft",
+    "location": {
+      "coordinates": [
+        -2.19914,
+        50.756239
+      ],
+      "region": "South West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Delta Team 3",
+    "slug": "delta-team-3",
+    "location": {
+      "coordinates": [
+        -2.817425,
+        53.557409
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Land Warrior",
+    "slug": "land-warrior",
+    "location": {
+      "coordinates": [
+        -3.066291,
+        55.796265
+      ],
+      "region": "Scotland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Airsoft GB",
+    "slug": "airsoft-gb",
+    "location": {
+      "coordinates": [
+        1.056707,
+        51.914024
+      ],
+      "region": "East Anglia",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "The Farm",
+    "slug": "the-farm",
+    "location": {
+      "coordinates": [
+        -0.406504,
+        53.221824
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Dagger Woods",
+    "slug": "dagger-woods",
+    "location": {
+      "coordinates": [
+        -2.827624,
+        53.799784
+      ],
+      "region": "North West",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "High Command (HC2)",
+    "slug": "high-command-hc2",
+    "location": {
+      "coordinates": [
+        -2.062178,
+        52.488859
+      ],
+      "region": "West Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "RAF Grafton Underwood",
+    "slug": "raf-grafton-underwood",
+    "location": {
+      "coordinates": [
+        -0.629521,
+        52.414893
+      ],
+      "region": "East Midlands",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Badlands Airsoft",
+    "slug": "badlands-airsoft",
+    "location": {
+      "coordinates": [
+        -0.945833,
+        50.881702
+      ],
+      "region": "South East",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Viper Strike",
+    "slug": "viper-strike",
+    "location": {
+      "coordinates": [
+        -2.965505,
+        56.518365
+      ],
+      "region": "Scotland",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  },
+  {
+    "name": "Ammanford Airsoft",
+    "slug": "ammanford-airsoft",
+    "location": {
+      "coordinates": [
+        -3.970925,
+        51.770599
+      ],
+      "region": "Wales",
+      "type": "Point"
+    },
+    "author": "65a7c443371c0b6cb421fdc2"
+  }
+]
